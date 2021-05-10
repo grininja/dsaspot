@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dsaspot/static/css/main.ec31c76d.chunk.css",
-    "main.js": "/dsaspot/static/js/main.18ec6e0f.chunk.js",
-    "main.js.map": "/dsaspot/static/js/main.18ec6e0f.chunk.js.map",
+    "main.js": "/dsaspot/static/js/main.b94623a9.chunk.js",
+    "main.js.map": "/dsaspot/static/js/main.b94623a9.chunk.js.map",
     "runtime-main.js": "/dsaspot/static/js/runtime-main.efba37d0.js",
     "runtime-main.js.map": "/dsaspot/static/js/runtime-main.efba37d0.js.map",
     "static/css/2.a07d8c99.chunk.css": "/dsaspot/static/css/2.a07d8c99.chunk.css",
     "static/js/2.3802cd78.chunk.js": "/dsaspot/static/js/2.3802cd78.chunk.js",
     "static/js/2.3802cd78.chunk.js.map": "/dsaspot/static/js/2.3802cd78.chunk.js.map",
     "index.html": "/dsaspot/index.html",
-    "precache-manifest.38fecd64599bcaaa2ffa31da80f9320f.js": "/dsaspot/precache-manifest.38fecd64599bcaaa2ffa31da80f9320f.js",
+    "precache-manifest.1996132d85f2c2f4091578b5c90cd3c7.js": "/dsaspot/precache-manifest.1996132d85f2c2f4091578b5c90cd3c7.js",
     "service-worker.js": "/dsaspot/service-worker.js",
     "static/css/2.a07d8c99.chunk.css.map": "/dsaspot/static/css/2.a07d8c99.chunk.css.map",
     "static/css/main.ec31c76d.chunk.css.map": "/dsaspot/static/css/main.ec31c76d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a07d8c99.chunk.css",
     "static/js/2.3802cd78.chunk.js",
     "static/css/main.ec31c76d.chunk.css",
-    "static/js/main.18ec6e0f.chunk.js"
+    "static/js/main.b94623a9.chunk.js"
   ]
 }
