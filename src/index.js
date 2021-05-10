@@ -5,7 +5,8 @@ import App from "./App";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import * as serviceWorker from "./serviceWorker";
 import "./index.css";
-
+import Darkmode from 'darkmode-js';
+new Darkmode().showWidget();
 ReactDOM.render(
 	<React.StrictMode>
 		<Router>

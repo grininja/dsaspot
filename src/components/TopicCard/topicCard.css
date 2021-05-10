@@ -6,7 +6,10 @@
 	width: 5px; /* width of the entire scrollbar */
 }
 .container::-webkit-scrollbar-track {
-	background: rgb(255, 255, 255); /* color of the tracking area */
+	/* background: rgb(255, 255, 255);  */
+	background: #fd746c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fd746c, #ff9068); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fd746c, #ff9068); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .container::-webkit-scrollbar-thumb {
 	background-color: rgba(54, 54, 54, 0.466); /* color of the scroll thumb */
@@ -14,7 +17,7 @@
 	border: 3px solid rgba(78, 78, 78, 0.452); /* creates padding around scroll thumb */
 }
 .inprogress-card {
-	background-color: #aad6b9;
+	background-color: #d40707;
 	border-radius: 15px;
 	height: 90%;
 }
@@ -28,7 +31,7 @@
 	font-weight: 700;
 }
 .notstarted-card {
-	background-color: #aad0f6;
+	background-color: #e5e90b;
 	border-radius: 15px;
 	height: 90%;
 }
