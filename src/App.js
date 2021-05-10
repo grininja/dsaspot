@@ -106,91 +106,91 @@ function App() {
 
             {/* TOPIC ROUTE */}
             <Route
-              path="/array"
+              path="/home/array"
               children={
                 <Topic data={questionData[0]} updateData={updateData} />
               }
             />
             <Route
-              path="/matrix"
+              path="/home/matrix"
               children={
                 <Topic data={questionData[1]} updateData={updateData} />
               }
             />
             <Route
-              path="/string"
+              path="/home/string"
               children={
                 <Topic data={questionData[2]} updateData={updateData} />
               }
             />
             <Route
-              path="/search_sort"
+              path="/home/search_sort"
               children={
                 <Topic data={questionData[3]} updateData={updateData} />
               }
             />
             <Route
-              path="/linked_list"
+              path="/home/linked_list"
               children={
                 <Topic data={questionData[4]} updateData={updateData} />
               }
             />
             <Route
-              path="/binary_trees"
+              path="/home/binary_trees"
               children={
                 <Topic data={questionData[5]} updateData={updateData} />
               }
             />
             <Route
-              path="/bst"
+              path="/home/bst"
               children={
                 <Topic data={questionData[6]} updateData={updateData} />
               }
             />
             <Route
-              path="/greedy"
+              path="/home/greedy"
               children={
                 <Topic data={questionData[7]} updateData={updateData} />
               }
             />
             <Route
-              path="/backtracking"
+              path="/home/backtracking"
               children={
                 <Topic data={questionData[8]} updateData={updateData} />
               }
             />
             <Route
-              path="/stacks_queues"
+              path="/home/stacks_queues"
               children={
                 <Topic data={questionData[9]} updateData={updateData} />
               }
             />
             <Route
-              path="/heap"
+              path="/home/heap"
               children={
                 <Topic data={questionData[10]} updateData={updateData} />
               }
             />
             <Route
-              path="/graph"
+              path="/home/graph"
               children={
                 <Topic data={questionData[11]} updateData={updateData} />
               }
             />
             <Route
-              path="/trie"
+              path="/home/trie"
               children={
                 <Topic data={questionData[12]} updateData={updateData} />
               }
             />
             <Route
-              path="/dynamic_programming"
+              path="/home/dynamic_programming"
               children={
                 <Topic data={questionData[13]} updateData={updateData} />
               }
             />
             <Route
-              path="/bit_manipulation"
+              path="/home/bit_manipulation"
               children={
                 <Topic data={questionData[14]} updateData={updateData} />
               }
