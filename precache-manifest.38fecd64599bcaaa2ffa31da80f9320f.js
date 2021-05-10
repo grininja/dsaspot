@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ff58cbec5d3f6e127e178f25a624d42",
+    "revision": "e12740f4486986160c839d07d758f34f",
     "url": "/dsaspot/index.html"
   },
   {
-    "revision": "6cfc33a2e4b89fd88987",
+    "revision": "cac189002ee14018a9ea",
     "url": "/dsaspot/static/css/2.a07d8c99.chunk.css"
   },
   {
-    "revision": "d33fd9746ffb3f06babc",
+    "revision": "c4504f60fcf1d6d1838c",
     "url": "/dsaspot/static/css/main.ec31c76d.chunk.css"
   },
   {
-    "revision": "6cfc33a2e4b89fd88987",
-    "url": "/dsaspot/static/js/2.b6807021.chunk.js"
+    "revision": "cac189002ee14018a9ea",
+    "url": "/dsaspot/static/js/2.3802cd78.chunk.js"
   },
   {
     "revision": "23c6e8c636923010bc877d2bf36960d8",
-    "url": "/dsaspot/static/js/2.b6807021.chunk.js.LICENSE.txt"
+    "url": "/dsaspot/static/js/2.3802cd78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d33fd9746ffb3f06babc",
-    "url": "/dsaspot/static/js/main.6ffcea09.chunk.js"
+    "revision": "c4504f60fcf1d6d1838c",
+    "url": "/dsaspot/static/js/main.18ec6e0f.chunk.js"
   },
   {
     "revision": "4f6e79a7048947f8e3d2",
