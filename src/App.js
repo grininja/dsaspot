@@ -77,7 +77,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         {questionData.length === 0 ? (
           // load spinner until data is fetched from DB
