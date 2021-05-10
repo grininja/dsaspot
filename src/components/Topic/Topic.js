@@ -58,7 +58,7 @@ export default function Topic({ data, updateData }) {
                       question.difficulty === "easy"
                         ? "green"
                         : question.difficulty === "medium"
-                        ? "blue"
+                        ? "orange"
                         : "red",
                   }}
                 >

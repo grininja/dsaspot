@@ -13,6 +13,7 @@ export default [
 				URL: "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
 			},
 			{
+				difficulty:"hard",
 				Topic: "Array",
 				Problem: "Find the maximum and minimum element in an array",
 				Done: false,
